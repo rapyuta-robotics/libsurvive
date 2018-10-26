@@ -9,6 +9,10 @@ test
 data_recorder
 simple_pose_test
 
+# Build files
+build/
+*.d
+
 # Temp files
 *~
 */\#*\#
